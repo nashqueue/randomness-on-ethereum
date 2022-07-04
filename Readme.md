@@ -1,3 +1,5 @@
+# Bachelor Thesis - Evaluation of Random Number Generators on the Ethereum Blockchain
+
 Source:
 ## Prerequisites
 
@@ -42,4 +44,5 @@ brownie networks add Ethereum ganache host=http://localhost:8545 chainid=1337
 ### To test development / local
 ```bash
 brownie test
+brownie run scripts/deploy_judge_selection.py
 ```
