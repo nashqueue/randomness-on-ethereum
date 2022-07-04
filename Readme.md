@@ -1,4 +1,4 @@
-# Bachelor Thesis - Evaluation of Random Number Generators on the Ethereum Blockchain
+# Bachelor Thesis - Evaluation of Random Number Generation on the Ethereum Blockchain
 
 ## Prerequisites
 
