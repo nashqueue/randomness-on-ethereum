@@ -1,6 +1,5 @@
 # Bachelor Thesis - Evaluation of Random Number Generators on the Ethereum Blockchain
 
-Source:
 ## Prerequisites
 
 Please install or have installed the following:
